@@ -1,0 +1,52 @@
+body {
+    background-color: #212121;
+    color: #ffffff;
+    font-family: sans-serif;
+  }
+  
+  h1 {
+    font-size: 2em;
+    margin-top: 0;
+  }
+  
+  h2 {
+    font-size: 1.5em;
+    margin-top: 0;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  th {
+    background-color: #424242;
+    color: #ffffff;
+    padding: 10px;
+  }
+  
+  td {
+    padding: 10px;
+  }
+  
+  input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #cccccc;
+  }
+  
+  button {
+    background-color: #424242;
+    color: #ffffff;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .available {
+    color: green;
+  }
+  
+  .unavailable {
+    color: red;
+  }
